@@ -1,0 +1,1082 @@
+{
+  "version": "fc22",
+  "generatedAt": "2026-09-30",
+  "leagues": [
+    {
+      "id": "english_premier_league",
+      "name": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "french_ligue_1",
+      "name": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "german_1_bundesliga",
+      "name": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "italian_serie_a",
+      "name": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "portuguese_liga_zon_sagres",
+      "name": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "spain_primera_division",
+      "name": "Spain Primera Division",
+      "nation": "Spain"
+    }
+  ],
+  "teams": [
+    {
+      "id": "paris_saint_germain_fc22",
+      "name": "Paris Saint-Germain",
+      "shortName": "Saint-Germain",
+      "overall": 86,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "manchester_city_fc22",
+      "name": "Manchester City",
+      "shortName": "Manchester City",
+      "overall": 85,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "manchester_united_fc22",
+      "name": "Manchester United",
+      "shortName": "United",
+      "overall": 84,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "atletico_de_madrid_fc22",
+      "name": "Atlético de Madrid",
+      "shortName": "Madrid",
+      "overall": 84,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "real_madrid_cf_fc22",
+      "name": "Real Madrid CF",
+      "shortName": "Real Madrid CF",
+      "overall": 84,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "liverpool_fc22",
+      "name": "Liverpool",
+      "shortName": "Liverpool",
+      "overall": 84,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "fc_bayern_munchen_fc22",
+      "name": "FC Bayern München",
+      "shortName": "München",
+      "overall": 83,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "fc_barcelona_fc22",
+      "name": "FC Barcelona",
+      "shortName": "FC Barcelona",
+      "overall": 83,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "chelsea_fc22",
+      "name": "Chelsea",
+      "shortName": "Chelsea",
+      "overall": 83,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "juventus_fc22",
+      "name": "Juventus",
+      "shortName": "Juventus",
+      "overall": 83,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "tottenham_hotspur_fc22",
+      "name": "Tottenham Hotspur",
+      "shortName": "Hotspur",
+      "overall": 82,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "inter_fc22",
+      "name": "Inter",
+      "shortName": "Inter",
+      "overall": 82,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "sevilla_fc_fc22",
+      "name": "Sevilla FC",
+      "shortName": "Sevilla FC",
+      "overall": 82,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "borussia_dortmund_fc22",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "overall": 81,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "lazio_fc22",
+      "name": "Lazio",
+      "shortName": "Lazio",
+      "overall": 80,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "villarreal_cf_fc22",
+      "name": "Villarreal CF",
+      "shortName": "Villarreal CF",
+      "overall": 80,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "napoli_fc22",
+      "name": "Napoli",
+      "shortName": "Napoli",
+      "overall": 80,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "leicester_city_fc22",
+      "name": "Leicester City",
+      "shortName": "Leicester City",
+      "overall": 80,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "real_sociedad_fc22",
+      "name": "Real Sociedad",
+      "shortName": "Real Sociedad",
+      "overall": 80,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "rb_leipzig_fc22",
+      "name": "RB Leipzig",
+      "shortName": "RB Leipzig",
+      "overall": 80,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "ac_milan_fc22",
+      "name": "AC Milan",
+      "shortName": "AC Milan",
+      "overall": 80,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "atalanta_fc22",
+      "name": "Atalanta",
+      "shortName": "Atalanta",
+      "overall": 80,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "arsenal_fc22",
+      "name": "Arsenal",
+      "shortName": "Arsenal",
+      "overall": 79,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "everton_fc22",
+      "name": "Everton",
+      "shortName": "Everton",
+      "overall": 79,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "real_betis_balompie_fc22",
+      "name": "Real Betis Balompié",
+      "shortName": "Balompié",
+      "overall": 79,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "olympique_lyonnais_fc22",
+      "name": "Olympique Lyonnais",
+      "shortName": "Lyonnais",
+      "overall": 79,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "roma_fc22",
+      "name": "Roma",
+      "shortName": "Roma",
+      "overall": 79,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "west_ham_united_fc22",
+      "name": "West Ham United",
+      "shortName": "West Ham United",
+      "overall": 79,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "sl_benfica_fc22",
+      "name": "SL Benfica",
+      "shortName": "SL Benfica",
+      "overall": 79,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "vfl_wolfsburg_fc22",
+      "name": "VfL Wolfsburg",
+      "shortName": "VfL Wolfsburg",
+      "overall": 78,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "borussia_monchengladbach_fc22",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Mönchengladbach",
+      "overall": 78,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "as_monaco_fc22",
+      "name": "AS Monaco",
+      "shortName": "AS Monaco",
+      "overall": 78,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "aston_villa_fc22",
+      "name": "Aston Villa",
+      "shortName": "Aston Villa",
+      "overall": 78,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "athletic_club_de_bilbao_fc22",
+      "name": "Athletic Club de Bilbao",
+      "shortName": "Bilbao",
+      "overall": 78,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "bayer_04_leverkusen_fc22",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "overall": 78,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "sporting_cp_fc22",
+      "name": "Sporting CP",
+      "shortName": "Sporting CP",
+      "overall": 78,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "wolverhampton_wanderers_fc22",
+      "name": "Wolverhampton Wanderers",
+      "shortName": "Wanderers",
+      "overall": 78,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "Portugal"
+    },
+    {
+      "id": "valencia_cf_fc22",
+      "name": "Valencia CF",
+      "shortName": "Valencia CF",
+      "overall": 78,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "fc_porto_fc22",
+      "name": "FC Porto",
+      "shortName": "FC Porto",
+      "overall": 78,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "olympique_de_marseille_fc22",
+      "name": "Olympique de Marseille",
+      "shortName": "Marseille",
+      "overall": 78,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "granada_cf_fc22",
+      "name": "Granada CF",
+      "shortName": "Granada CF",
+      "overall": 78,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "eintracht_frankfurt_fc22",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "overall": 77,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "burnley_fc22",
+      "name": "Burnley",
+      "shortName": "Burnley",
+      "overall": 77,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "levante_union_deportiva_fc22",
+      "name": "Levante Unión Deportiva",
+      "shortName": "Deportiva",
+      "overall": 77,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "losc_lille_fc22",
+      "name": "LOSC Lille",
+      "shortName": "LOSC Lille",
+      "overall": 77,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "rcd_espanyol_de_barcelona_fc22",
+      "name": "RCD Espanyol de Barcelona",
+      "shortName": "Barcelona",
+      "overall": 77,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "rc_celta_de_vigo_fc22",
+      "name": "RC Celta de Vigo",
+      "shortName": "Vigo",
+      "overall": 76,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "tsg_hoffenheim_fc22",
+      "name": "TSG Hoffenheim",
+      "shortName": "TSG Hoffenheim",
+      "overall": 76,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "crystal_palace_fc22",
+      "name": "Crystal Palace",
+      "shortName": "Crystal Palace",
+      "overall": 76,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "leeds_united_fc22",
+      "name": "Leeds United",
+      "shortName": "Leeds United",
+      "overall": 76,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "ogc_nice_fc22",
+      "name": "OGC Nice",
+      "shortName": "OGC Nice",
+      "overall": 76,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "southampton_fc22",
+      "name": "Southampton",
+      "shortName": "Southampton",
+      "overall": 76,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "torino_f_c_fc22",
+      "name": "Torino F.C.",
+      "shortName": "Torino F.C.",
+      "overall": 76,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "getafe_cf_fc22",
+      "name": "Getafe CF",
+      "shortName": "Getafe CF",
+      "overall": 76,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "newcastle_united_fc22",
+      "name": "Newcastle United",
+      "shortName": "United",
+      "overall": 76,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "brighton_hove_albion_fc22",
+      "name": "Brighton & Hove Albion",
+      "shortName": "Albion",
+      "overall": 76,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "fiorentina_fc22",
+      "name": "Fiorentina",
+      "shortName": "Fiorentina",
+      "overall": 76,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "stade_rennais_fc_fc22",
+      "name": "Stade Rennais FC",
+      "shortName": "FC",
+      "overall": 76,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "ca_osasuna_fc22",
+      "name": "CA Osasuna",
+      "shortName": "CA Osasuna",
+      "overall": 76,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "genoa_fc22",
+      "name": "Genoa",
+      "shortName": "Genoa",
+      "overall": 75,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "u_s_sassuolo_calcio_fc22",
+      "name": "U.S. Sassuolo Calcio",
+      "shortName": "Calcio",
+      "overall": 75,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "bologna_fc22",
+      "name": "Bologna",
+      "shortName": "Bologna",
+      "overall": 75,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "cagliari_fc22",
+      "name": "Cagliari",
+      "shortName": "Cagliari",
+      "overall": 75,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "u_c_sampdoria_fc22",
+      "name": "U.C. Sampdoria",
+      "shortName": "U.C. Sampdoria",
+      "overall": 75,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "elche_cf_fc22",
+      "name": "Elche CF",
+      "shortName": "Elche CF",
+      "overall": 75,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "sc_braga_fc22",
+      "name": "SC Braga",
+      "shortName": "SC Braga",
+      "overall": 75,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "watford_fc22",
+      "name": "Watford",
+      "shortName": "Watford",
+      "overall": 75,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "hertha_bsc_fc22",
+      "name": "Hertha BSC",
+      "shortName": "Hertha BSC",
+      "overall": 75,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "hellas_verona_fc22",
+      "name": "Hellas Verona",
+      "shortName": "Hellas Verona",
+      "overall": 75,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "norwich_city_fc22",
+      "name": "Norwich City",
+      "shortName": "Norwich City",
+      "overall": 75,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "1_fc_union_berlin_fc22",
+      "name": "1. FC Union Berlin",
+      "shortName": "Berlin",
+      "overall": 74,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "udinese_calcio_fc22",
+      "name": "Udinese Calcio",
+      "shortName": "Udinese Calcio",
+      "overall": 74,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Argentina"
+    },
+    {
+      "id": "montpellier_herault_sc_fc22",
+      "name": "Montpellier Hérault SC",
+      "shortName": "SC",
+      "overall": 74,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "deportivo_alaves_fc22",
+      "name": "Deportivo Alavés",
+      "shortName": "Alavés",
+      "overall": 74,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "fc_girondins_de_bordeaux_fc22",
+      "name": "FC Girondins de Bordeaux",
+      "shortName": "Bordeaux",
+      "overall": 74,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "fc_augsburg_fc22",
+      "name": "FC Augsburg",
+      "shortName": "FC Augsburg",
+      "overall": 74,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "sport_club_freiburg_fc22",
+      "name": "Sport-Club Freiburg",
+      "shortName": "Freiburg",
+      "overall": 74,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "cadiz_cf_fc22",
+      "name": "Cádiz CF",
+      "shortName": "Cádiz CF",
+      "overall": 74,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "rayo_vallecano_fc22",
+      "name": "Rayo Vallecano",
+      "shortName": "Rayo Vallecano",
+      "overall": 74,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "rcd_mallorca_fc22",
+      "name": "RCD Mallorca",
+      "shortName": "RCD Mallorca",
+      "overall": 74,
+      "leagueId": "spain_primera_division",
+      "league": "Spain Primera Division",
+      "nation": "Spain"
+    },
+    {
+      "id": "racing_club_de_lens_fc22",
+      "name": "Racing Club de Lens",
+      "shortName": "Lens",
+      "overall": 74,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "rc_strasbourg_alsace_fc22",
+      "name": "RC Strasbourg Alsace",
+      "shortName": "Alsace",
+      "overall": 74,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "vfb_stuttgart_fc22",
+      "name": "VfB Stuttgart",
+      "shortName": "VfB Stuttgart",
+      "overall": 74,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "brentford_fc22",
+      "name": "Brentford",
+      "shortName": "Brentford",
+      "overall": 74,
+      "leagueId": "english_premier_league",
+      "league": "English Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "fc_metz_fc22",
+      "name": "FC Metz",
+      "shortName": "FC Metz",
+      "overall": 73,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "1_fc_koln_fc22",
+      "name": "1. FC Köln",
+      "shortName": "1. FC Köln",
+      "overall": 73,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "angers_sco_fc22",
+      "name": "Angers SCO",
+      "shortName": "Angers SCO",
+      "overall": 73,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "fc_nantes_fc22",
+      "name": "FC Nantes",
+      "shortName": "FC Nantes",
+      "overall": 73,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "stade_de_reims_fc22",
+      "name": "Stade de Reims",
+      "shortName": "Stade de Reims",
+      "overall": 73,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "stade_brestois_29_fc22",
+      "name": "Stade Brestois 29",
+      "shortName": "29",
+      "overall": 73,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "as_saint_etienne_fc22",
+      "name": "AS Saint-Étienne",
+      "shortName": "Saint-Étienne",
+      "overall": 73,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "1_fsv_mainz_05_fc22",
+      "name": "1. FSV Mainz 05",
+      "shortName": "1. FSV Mainz 05",
+      "overall": 73,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "dsc_arminia_bielefeld_fc22",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "overall": 72,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "vitoria_de_guimaraes_fc22",
+      "name": "Vitória de Guimarães",
+      "shortName": "Guimarães",
+      "overall": 72,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "estac_troyes_fc22",
+      "name": "ESTAC Troyes",
+      "shortName": "ESTAC Troyes",
+      "overall": 72,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "vfl_bochum_1848_fc22",
+      "name": "VfL Bochum 1848",
+      "shortName": "VfL Bochum 1848",
+      "overall": 72,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "fc_pacos_de_ferreira_fc22",
+      "name": "FC Paços de Ferreira",
+      "shortName": "Ferreira",
+      "overall": 71,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "spezia_fc22",
+      "name": "Spezia",
+      "shortName": "Spezia",
+      "overall": 71,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "fc_lorient_fc22",
+      "name": "FC Lorient",
+      "shortName": "FC Lorient",
+      "overall": 71,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "empoli_fc22",
+      "name": "Empoli",
+      "shortName": "Empoli",
+      "overall": 71,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "spvgg_greuther_furth_fc22",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "overall": 71,
+      "leagueId": "german_1_bundesliga",
+      "league": "German 1. Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "clermont_foot_63_fc22",
+      "name": "Clermont Foot 63",
+      "shortName": "63",
+      "overall": 71,
+      "leagueId": "french_ligue_1",
+      "league": "French Ligue 1",
+      "nation": "France"
+    },
+    {
+      "id": "us_salernitana_1919_fc22",
+      "name": "US Salernitana 1919",
+      "shortName": "1919",
+      "overall": 70,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "portimonense_sc_fc22",
+      "name": "Portimonense SC",
+      "shortName": "Portimonense SC",
+      "overall": 70,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Brazil"
+    },
+    {
+      "id": "venezia_fc_fc22",
+      "name": "Venezia FC",
+      "shortName": "Venezia FC",
+      "overall": 70,
+      "leagueId": "italian_serie_a",
+      "league": "Italian Serie A",
+      "nation": "Italy"
+    },
+    {
+      "id": "moreirense_fc_fc22",
+      "name": "Moreirense FC",
+      "shortName": "Moreirense FC",
+      "overall": 70,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Brazil"
+    },
+    {
+      "id": "clube_sport_maritimo_fc22",
+      "name": "Clube Sport Marítimo",
+      "shortName": "Marítimo",
+      "overall": 70,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "santa_clara_fc22",
+      "name": "Santa Clara",
+      "shortName": "Santa Clara",
+      "overall": 70,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "futebol_clube_de_famalicao_fc22",
+      "name": "Futebol Clube de Famalicão",
+      "shortName": "Famalicão",
+      "overall": 70,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "boavista_fc_fc22",
+      "name": "Boavista FC",
+      "shortName": "Boavista FC",
+      "overall": 69,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "belenenses_sad_fc22",
+      "name": "Belenenses SAD",
+      "shortName": "Belenenses SAD",
+      "overall": 69,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "cd_tondela_fc22",
+      "name": "CD Tondela",
+      "shortName": "CD Tondela",
+      "overall": 69,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "fc_vizela_fc22",
+      "name": "FC Vizela",
+      "shortName": "FC Vizela",
+      "overall": 69,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "fc_arouca_fc22",
+      "name": "FC Arouca",
+      "shortName": "FC Arouca",
+      "overall": 69,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Brazil"
+    },
+    {
+      "id": "estoril_praia_fc22",
+      "name": "Estoril Praia",
+      "shortName": "Estoril Praia",
+      "overall": 69,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Portugal"
+    },
+    {
+      "id": "gil_vicente_fc_fc22",
+      "name": "Gil Vicente FC",
+      "shortName": "Gil Vicente FC",
+      "overall": 68,
+      "leagueId": "portuguese_liga_zon_sagres",
+      "league": "Portuguese Liga ZON SAGRES",
+      "nation": "Brazil"
+    }
+  ]
+}

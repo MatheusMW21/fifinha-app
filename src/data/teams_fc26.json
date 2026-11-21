@@ -1,0 +1,1055 @@
+{
+  "version": "fc26",
+  "generatedAt": "2026-09-30",
+  "leagues": [
+    {
+      "id": "bundesliga",
+      "name": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "laliga_ea_sports",
+      "name": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "liga_portugal",
+      "name": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "ligue_1_mcdonald_s",
+      "name": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "premier_league",
+      "name": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "serie_a_enilive",
+      "name": "Serie A Enilive",
+      "nation": "Italy"
+    }
+  ],
+  "teams": [
+    {
+      "id": "liverpool_fc26",
+      "name": "Liverpool",
+      "shortName": "Liverpool",
+      "overall": 85,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "real_madrid_fc26",
+      "name": "Real Madrid",
+      "shortName": "Real Madrid",
+      "overall": 85,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "fc_barcelona_fc26",
+      "name": "FC Barcelona",
+      "shortName": "FC Barcelona",
+      "overall": 85,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "paris_sg_fc26",
+      "name": "Paris SG",
+      "shortName": "Paris SG",
+      "overall": 84,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "manchester_city_fc26",
+      "name": "Manchester City",
+      "shortName": "Manchester City",
+      "overall": 84,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "arsenal_fc26",
+      "name": "Arsenal",
+      "shortName": "Arsenal",
+      "overall": 84,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "fc_bayern_munchen_fc26",
+      "name": "FC Bayern München",
+      "shortName": "München",
+      "overall": 83,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "lombardia_fc_fc26",
+      "name": "Lombardia FC",
+      "shortName": "Lombardia FC",
+      "overall": 83,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "atletico_de_madrid_fc26",
+      "name": "Atlético de Madrid",
+      "shortName": "Madrid",
+      "overall": 83,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "borussia_dortmund_fc26",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "overall": 81,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "ssc_napoli_fc26",
+      "name": "SSC Napoli",
+      "shortName": "SSC Napoli",
+      "overall": 81,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "newcastle_utd_fc26",
+      "name": "Newcastle Utd",
+      "shortName": "Newcastle Utd",
+      "overall": 81,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "aston_villa_fc26",
+      "name": "Aston Villa",
+      "shortName": "Aston Villa",
+      "overall": 81,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "juventus_fc26",
+      "name": "Juventus",
+      "shortName": "Juventus",
+      "overall": 81,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "spurs_fc26",
+      "name": "Spurs",
+      "shortName": "Spurs",
+      "overall": 81,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "chelsea_fc26",
+      "name": "Chelsea",
+      "shortName": "Chelsea",
+      "overall": 80,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "man_utd_fc26",
+      "name": "Man Utd",
+      "shortName": "Man Utd",
+      "overall": 80,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "milano_fc_fc26",
+      "name": "Milano FC",
+      "shortName": "Milano FC",
+      "overall": 80,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "France"
+    },
+    {
+      "id": "as_roma_fc26",
+      "name": "AS Roma",
+      "shortName": "AS Roma",
+      "overall": 80,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "nott_m_forest_fc26",
+      "name": "Nott'm Forest",
+      "shortName": "Nott'm Forest",
+      "overall": 80,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "athletic_club_fc26",
+      "name": "Athletic Club",
+      "shortName": "Athletic Club",
+      "overall": 79,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "rb_leipzig_fc26",
+      "name": "RB Leipzig",
+      "shortName": "RB Leipzig",
+      "overall": 79,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "leverkusen_fc26",
+      "name": "Leverkusen",
+      "shortName": "Leverkusen",
+      "overall": 79,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "om_fc26",
+      "name": "OM",
+      "shortName": "OM",
+      "overall": 79,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "latium_fc26",
+      "name": "Latium",
+      "shortName": "Latium",
+      "overall": 79,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "bergamo_calcio_fc26",
+      "name": "Bergamo Calcio",
+      "shortName": "Bergamo Calcio",
+      "overall": 79,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "real_betis_fc26",
+      "name": "Real Betis",
+      "shortName": "Real Betis",
+      "overall": 79,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "sporting_cp_fc26",
+      "name": "Sporting CP",
+      "shortName": "Sporting CP",
+      "overall": 79,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "villarreal_cf_fc26",
+      "name": "Villarreal CF",
+      "shortName": "Villarreal CF",
+      "overall": 78,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "real_sociedad_fc26",
+      "name": "Real Sociedad",
+      "shortName": "Real Sociedad",
+      "overall": 78,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "as_monaco_fc26",
+      "name": "AS Monaco",
+      "shortName": "AS Monaco",
+      "overall": 78,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "fulham_fc26",
+      "name": "Fulham",
+      "shortName": "Fulham",
+      "overall": 78,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "brighton_fc26",
+      "name": "Brighton",
+      "shortName": "Brighton",
+      "overall": 78,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "sl_benfica_fc26",
+      "name": "SL Benfica",
+      "shortName": "SL Benfica",
+      "overall": 78,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "frankfurt_fc26",
+      "name": "Frankfurt",
+      "shortName": "Frankfurt",
+      "overall": 78,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "crystal_palace_fc26",
+      "name": "Crystal Palace",
+      "shortName": "Crystal Palace",
+      "overall": 78,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "fiorentina_fc26",
+      "name": "Fiorentina",
+      "shortName": "Fiorentina",
+      "overall": 77,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "everton_fc26",
+      "name": "Everton",
+      "shortName": "Everton",
+      "overall": 77,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "west_ham_fc26",
+      "name": "West Ham",
+      "shortName": "West Ham",
+      "overall": 77,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "vfb_stuttgart_fc26",
+      "name": "VfB Stuttgart",
+      "shortName": "VfB Stuttgart",
+      "overall": 77,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "celta_fc26",
+      "name": "Celta",
+      "shortName": "Celta",
+      "overall": 77,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "valencia_cf_fc26",
+      "name": "Valencia CF",
+      "shortName": "Valencia CF",
+      "overall": 77,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "rayo_vallecano_fc26",
+      "name": "Rayo Vallecano",
+      "shortName": "Rayo Vallecano",
+      "overall": 77,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "girona_fc_fc26",
+      "name": "Girona FC",
+      "shortName": "Girona FC",
+      "overall": 77,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "brentford_fc26",
+      "name": "Brentford",
+      "shortName": "Brentford",
+      "overall": 77,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "vfl_wolfsburg_fc26",
+      "name": "VfL Wolfsburg",
+      "shortName": "VfL Wolfsburg",
+      "overall": 77,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "afc_bournemouth_fc26",
+      "name": "AFC Bournemouth",
+      "shortName": "AFC Bournemouth",
+      "overall": 77,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "sunderland_fc26",
+      "name": "Sunderland",
+      "shortName": "Sunderland",
+      "overall": 76,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "fc_porto_fc26",
+      "name": "FC Porto",
+      "shortName": "FC Porto",
+      "overall": 76,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "bologna_fc26",
+      "name": "Bologna",
+      "shortName": "Bologna",
+      "overall": 76,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "torino_fc26",
+      "name": "Torino",
+      "shortName": "Torino",
+      "overall": 76,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "ca_osasuna_fc26",
+      "name": "CA Osasuna",
+      "shortName": "CA Osasuna",
+      "overall": 76,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "rcd_mallorca_fc26",
+      "name": "RCD Mallorca",
+      "shortName": "RCD Mallorca",
+      "overall": 76,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "leeds_united_fc26",
+      "name": "Leeds United",
+      "shortName": "Leeds United",
+      "overall": 76,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "como_fc26",
+      "name": "Como",
+      "shortName": "Como",
+      "overall": 76,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Spain"
+    },
+    {
+      "id": "m_gladbach_fc26",
+      "name": "M'gladbach",
+      "shortName": "M'gladbach",
+      "overall": 76,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "stade_rennais_fc_fc26",
+      "name": "Stade Rennais FC",
+      "shortName": "FC",
+      "overall": 76,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "ogc_nice_fc26",
+      "name": "OGC Nice",
+      "shortName": "OGC Nice",
+      "overall": 76,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "losc_lille_fc26",
+      "name": "LOSC Lille",
+      "shortName": "LOSC Lille",
+      "overall": 76,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "wolves_fc26",
+      "name": "Wolves",
+      "shortName": "Wolves",
+      "overall": 76,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "Portugal"
+    },
+    {
+      "id": "tsg_hoffenheim_fc26",
+      "name": "TSG Hoffenheim",
+      "shortName": "TSG Hoffenheim",
+      "overall": 75,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "sc_freiburg_fc26",
+      "name": "SC Freiburg",
+      "shortName": "SC Freiburg",
+      "overall": 75,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "ol_fc26",
+      "name": "OL",
+      "shortName": "OL",
+      "overall": 75,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "1_fsv_mainz_05_fc26",
+      "name": "1. FSV Mainz 05",
+      "shortName": "1. FSV Mainz 05",
+      "overall": 75,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "getafe_cf_fc26",
+      "name": "Getafe CF",
+      "shortName": "Getafe CF",
+      "overall": 75,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "sc_braga_fc26",
+      "name": "SC Braga",
+      "shortName": "SC Braga",
+      "overall": 75,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "sv_werder_bremen_fc26",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "overall": 75,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "union_berlin_fc26",
+      "name": "Union Berlin",
+      "shortName": "Union Berlin",
+      "overall": 75,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "burnley_fc26",
+      "name": "Burnley",
+      "shortName": "Burnley",
+      "overall": 75,
+      "leagueId": "premier_league",
+      "league": "Premier League",
+      "nation": "England"
+    },
+    {
+      "id": "sevilla_fc_fc26",
+      "name": "Sevilla FC",
+      "shortName": "Sevilla FC",
+      "overall": 75,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "strasbourg_fc26",
+      "name": "Strasbourg",
+      "shortName": "Strasbourg",
+      "overall": 75,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "fc_augsburg_fc26",
+      "name": "FC Augsburg",
+      "shortName": "FC Augsburg",
+      "overall": 75,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "sassuolo_fc26",
+      "name": "Sassuolo",
+      "shortName": "Sassuolo",
+      "overall": 74,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "paris_fc_fc26",
+      "name": "Paris FC",
+      "shortName": "Paris FC",
+      "overall": 74,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "rcd_espanyol_fc26",
+      "name": "RCD Espanyol",
+      "shortName": "RCD Espanyol",
+      "overall": 74,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "d_alaves_fc26",
+      "name": "D. Alavés",
+      "shortName": "D. Alavés",
+      "overall": 74,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "1_fc_koln_fc26",
+      "name": "1. FC Köln",
+      "shortName": "1. FC Köln",
+      "overall": 74,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "rc_lens_fc26",
+      "name": "RC Lens",
+      "shortName": "RC Lens",
+      "overall": 74,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "cremonese_fc26",
+      "name": "Cremonese",
+      "shortName": "Cremonese",
+      "overall": 73,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "udinese_fc26",
+      "name": "Udinese",
+      "shortName": "Udinese",
+      "overall": 73,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "hellas_verona_fc26",
+      "name": "Hellas Verona",
+      "shortName": "Hellas Verona",
+      "overall": 73,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Denmark"
+    },
+    {
+      "id": "hamburger_sv_fc26",
+      "name": "Hamburger SV",
+      "shortName": "Hamburger SV",
+      "overall": 73,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "genoa_fc26",
+      "name": "Genoa",
+      "shortName": "Genoa",
+      "overall": 73,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "stade_brestois_29_fc26",
+      "name": "Stade Brestois 29",
+      "shortName": "29",
+      "overall": 73,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "cagliari_fc26",
+      "name": "Cagliari",
+      "shortName": "Cagliari",
+      "overall": 73,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "r_oviedo_fc26",
+      "name": "R. Oviedo",
+      "shortName": "R. Oviedo",
+      "overall": 73,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "parma_fc26",
+      "name": "Parma",
+      "shortName": "Parma",
+      "overall": 73,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "lecce_fc26",
+      "name": "Lecce",
+      "shortName": "Lecce",
+      "overall": 72,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "toulouse_fc_fc26",
+      "name": "Toulouse FC",
+      "shortName": "Toulouse FC",
+      "overall": 72,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "fc_nantes_fc26",
+      "name": "FC Nantes",
+      "shortName": "FC Nantes",
+      "overall": 72,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "elche_cf_fc26",
+      "name": "Elche CF",
+      "shortName": "Elche CF",
+      "overall": 72,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "heidenheim_fc26",
+      "name": "Heidenheim",
+      "shortName": "Heidenheim",
+      "overall": 72,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "levante_ud_fc26",
+      "name": "Levante UD",
+      "shortName": "Levante UD",
+      "overall": 72,
+      "leagueId": "laliga_ea_sports",
+      "league": "LALIGA EA SPORTS",
+      "nation": "Spain"
+    },
+    {
+      "id": "fc_st_pauli_fc26",
+      "name": "FC St. Pauli",
+      "shortName": "FC St. Pauli",
+      "overall": 71,
+      "leagueId": "bundesliga",
+      "league": "Bundesliga",
+      "nation": "Germany"
+    },
+    {
+      "id": "pisa_fc26",
+      "name": "Pisa",
+      "shortName": "Pisa",
+      "overall": 71,
+      "leagueId": "serie_a_enilive",
+      "league": "Serie A Enilive",
+      "nation": "Italy"
+    },
+    {
+      "id": "aj_auxerre_fc26",
+      "name": "AJ Auxerre",
+      "shortName": "AJ Auxerre",
+      "overall": 71,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "fc_lorient_fc26",
+      "name": "FC Lorient",
+      "shortName": "FC Lorient",
+      "overall": 71,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "havre_ac_fc26",
+      "name": "Havre AC",
+      "shortName": "Havre AC",
+      "overall": 71,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "angers_sco_fc26",
+      "name": "Angers SCO",
+      "shortName": "Angers SCO",
+      "overall": 70,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "France"
+    },
+    {
+      "id": "fc_metz_fc26",
+      "name": "FC Metz",
+      "shortName": "FC Metz",
+      "overall": 70,
+      "leagueId": "ligue_1_mcdonald_s",
+      "league": "Ligue 1 McDonald's",
+      "nation": "Senegal"
+    },
+    {
+      "id": "fc_famalicao_fc26",
+      "name": "FC Famalicão",
+      "shortName": "FC Famalicão",
+      "overall": 70,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "santa_clara_fc26",
+      "name": "Santa Clara",
+      "shortName": "Santa Clara",
+      "overall": 70,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Brazil"
+    },
+    {
+      "id": "estoril_praia_fc26",
+      "name": "Estoril Praia",
+      "shortName": "Estoril Praia",
+      "overall": 70,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "gil_vicente_fc26",
+      "name": "Gil Vicente",
+      "shortName": "Gil Vicente",
+      "overall": 69,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "rio_ave_fc_fc26",
+      "name": "Rio Ave FC",
+      "shortName": "Rio Ave FC",
+      "overall": 69,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Greece"
+    },
+    {
+      "id": "arouca_fc26",
+      "name": "Arouca",
+      "shortName": "Arouca",
+      "overall": 69,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "casa_pia_ac_fc26",
+      "name": "Casa Pia AC",
+      "shortName": "Casa Pia AC",
+      "overall": 69,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "moreirense_fc_fc26",
+      "name": "Moreirense FC",
+      "shortName": "Moreirense FC",
+      "overall": 68,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "vitoria_sc_fc26",
+      "name": "Vitória SC",
+      "shortName": "Vitória SC",
+      "overall": 68,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "cd_tondela_fc26",
+      "name": "CD Tondela",
+      "shortName": "CD Tondela",
+      "overall": 68,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "avs_futebol_sad_fc26",
+      "name": "AVS Futebol SAD",
+      "shortName": "AVS Futebol SAD",
+      "overall": 68,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "estrela_amadora_fc26",
+      "name": "Estrela Amadora",
+      "shortName": "Estrela Amadora",
+      "overall": 67,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    },
+    {
+      "id": "fc_alverca_fc26",
+      "name": "FC Alverca",
+      "shortName": "FC Alverca",
+      "overall": 65,
+      "leagueId": "liga_portugal",
+      "league": "Liga Portugal",
+      "nation": "Portugal"
+    }
+  ]
+}
