@@ -16,6 +16,7 @@ import { useSessionStore } from '@/stores/sessionStore'
 import { getTeamsData } from '@/data'
 import { colors, spacing, radius, fontSize } from '@/constants/theme'
 import { RatingDiff, RATING_DIFF_OPTIONS, League } from '@/types'
+import * as Haptics from 'expo-haptics';
 
 export default function SettingsScreen() {
   const { ratingDiff, setRatingDiff, setLeagueFilter, getLeagueFilter, playerNames, setPlayerName } = useSettingsStore()
@@ -23,8 +24,6 @@ export default function SettingsScreen() {
 
   const [leagues, setLeagues] = useState<League[]>([])
   const [selectedLeagueIds, setSelectedLeagueIds] = useState<string[] | null>(null)
-  const [leagueError, setLeagueError] = useState<string | null>(null)
-
   useEffect(() => {
     if (!selectedVersion) return
     const data = getTeamsData(selectedVersion)
@@ -41,6 +40,11 @@ export default function SettingsScreen() {
     const currentlySelected = selectedLeagueIds === null ? allIds : selectedLeagueIds
     const isSelected = currentlySelected.includes(leagueId)
 
+    if (isSelected && currentlySelected.length === 1) {
+      Haptics.notificationAsync(Haptics.NotificationFeedbackType.Warning)
+      return
+    }
+
     const next = isSelected
       ? currentlySelected.filter((id) => id !== leagueId)
       : [...currentlySelected, leagueId]
@@ -53,22 +57,11 @@ export default function SettingsScreen() {
   }
 
   function handleSelectAll() {
-    const next = selectedLeagueIds === null ? [] : null
-    setSelectedLeagueIds(next)
-    if (selectedVersion) setLeagueFilter(selectedVersion, next)
-    setLeagueError(null)
+    setSelectedLeagueIds(null)
+    if (selectedVersion) setLeagueFilter(selectedVersion, null)
   }
 
   function handleClose() {
-    const noLeagueSelected =
-      selectedVersion &&
-      leagues.length > 0 &&
-      Array.isArray(selectedLeagueIds) &&
-      selectedLeagueIds.length === 0
-    if (noLeagueSelected) {
-      setLeagueError('Selecione pelo menos uma liga para continuar.')
-      return
-    }
     router.back()
   }
 
@@ -88,12 +81,6 @@ export default function SettingsScreen() {
             <Ionicons name="close" size={20} color={colors.textSecondary} />
           </TouchableOpacity>
         </View>
-        {leagueError && (
-          <View style={styles.emptyHint}>
-            <Ionicons name="alert-circle" size={18} color="red" />
-            <Text style={[styles.emptyHintText, { color: 'red' }]}>{leagueError}</Text>
-          </View>
-        )}
         <ScrollView showsVerticalScrollIndicator={false} style={styles.scroll}>
           {/* Rating Diff */}
           <View style={styles.section}>
